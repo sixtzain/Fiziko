@@ -1,0 +1,2 @@
+# Fiziko
+Private policy
